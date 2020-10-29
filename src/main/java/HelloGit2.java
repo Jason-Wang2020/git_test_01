@@ -6,4 +6,7 @@ import java.sql.SQLOutput;
  * @dec
  */
 public class HelloGit2 {
+    public static void main(String[] args){
+        System.out.println("wang su hang");
+    }
 }
